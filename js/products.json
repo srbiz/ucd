@@ -1,6 +1,7 @@
 [
 {
     "title": "Green Solid Hooded Sweatshirt",
+    "description": "Best Quality solid Sweatshirt",
     "store": "Myntra",
     "brand": "Campus Sutra",
     "salePrice": "1499",
@@ -15,6 +16,7 @@
 },
 {
     "title": "Motorola Escape 210 Over-Ear Bluetooth Headphones with Alexa",
+    "description": "Motorola is emerging",
     "store": "Tata CLIQ",
     "brand": "Motorola",
     "salePrice": "3299",
@@ -29,6 +31,7 @@
 },
 {
     "title": "Dell Vostro 3581 HD Laptop (i3 4GB RAM 1TB HDD Windows 10 15.6-inch)",
+    "description": "Dell is high performant",
     "store": "Tata CLIQ",
     "brand": "Dell",
     "salePrice": "38990",
@@ -43,6 +46,7 @@
 },
 {
     "title": "Mactree Men Black Sneakers",
+    "description": "Mactreee Men Sneakers are safe",
     "store": "Myntra",
     "brand": "Mactree",
     "salePrice": "2999",
@@ -57,6 +61,7 @@
 },
 {
     "title": "Mast & Harbour Men Red & Black Solid Thong Flip-Flops",
+    "description": "Mast &",
     "store": "Myntra",
     "brand": "Mactree",
     "salePrice": "599",

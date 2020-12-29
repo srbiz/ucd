@@ -15,5 +15,6 @@
     { "category": "Keyboard", "icon": "mdi-keyboard-outline", "src": "", "link": "" },
     { "category": "Monitor", "icon": "mdi-monitor", "src": "", "link": "" },
     { "category": "Processor", "icon": "mdi-apps-box", "src": "", "link": "" },
-    { "category": "Stationery", "icon": "mdi-content-cut", "src": "", "link": "" }
+    { "category": "Stationery", "icon": "mdi-content-cut", "src": "", "link": "" },
+    { "category": "USB", "icon": "mdi-usb", "src": "", "link": "" }
 ]

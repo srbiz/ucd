@@ -5,6 +5,7 @@
     { "category": "Powerbank", "icon": "mdi-battery-charging" },
     { "category": "TV", "icon": "mdi-television-box" },
     { "category": "Fashion & Clothing", "icon": "mdi-hanger" },
+    { "category": "Footwear", "icon": "mdi-shoe-sneaker" },
     { "category": "Baby Care", "icon": "mdi-baby-carriage" },
     { "category": "Kitchenware", "icon": "mdi-coffee-maker" },
     { "category": "Appliances", "icon": "mdi-fridge-outline" },

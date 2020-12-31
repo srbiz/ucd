@@ -1,8 +1,12 @@
 [
-{
+  {
     "title": "Acer Aspire 3 Laptop (i3 4GB RAM 1 TB HDD Window 10 15.6 inch) (Model No: A315-56)",
-    "description": ["Intel Core i3 7th Generation, 4 GB DDR4 RAM, 1TB HDD, Integrated Graphics", "Windows 10 Home 64 Bit",
-        "No ODD, LED Backlit TFT Display", "15.6 inch FHD LED Backlit TFT Display, Obsidian Black Color, 2.99 kg"],
+    "description": [
+      "Intel Core i3 7th Generation, 4 GB DDR4 RAM, 1TB HDD, Integrated Graphics",
+      "Windows 10 Home 64 Bit",
+      "No ODD, LED Backlit TFT Display",
+      "15.6 inch FHD LED Backlit TFT Display, Obsidian Black Color, 2.99 kg"
+    ],
     "store": "Tata CLIQ",
     "brand": "Acer",
     "salePrice": "29990",
@@ -15,14 +19,17 @@
     "storeLogo": "",
     "category": "Laptop",
     "link": "https://ekaro.in/enkr20201229s132752"
-},
-{
+  },
+  {
     "title": "Syska 10000 mAh Power Bank",
-    "description": ["Apply coupon UPI5 & get 5% instant discount up to 500 rupees for UPI transactions",
-        "1) 10% Instant Discount on Indusind Bank Cards on Min Purchase of Rs. 10,000 | Max Discount of Rs. 1500 on Credit and Debit Cards & Credit Card EMI transaction 2) Apply Coupon NY750 AND Get 5% Instant Discount Upto Rs.750 on all banks Credit Card, Debit Card and EMI Transactions on Min Purchase of Rs.15000.",
-        "Capacity: 10000 mAH Lithium Polymer Battery", "Dual Input Type-C and Micro USB with Dual USB Output to charge two devices at the same time",
-        "Devices is protected from Overcharging and with Discharging Protection with Intelligent Multi-protection Circuits",
-        "Built in current control circuit shunt the current when the power bank is self charging and outputting power at the same time"],
+    "description": [
+      "Apply coupon UPI5 & get 5% instant discount up to 500 rupees for UPI transactions",
+      "1) 10% Instant Discount on Indusind Bank Cards on Min Purchase of Rs. 10,000 | Max Discount of Rs. 1500 on Credit and Debit Cards & Credit Card EMI transaction 2) Apply Coupon NY750 AND Get 5% Instant Discount Upto Rs.750 on all banks Credit Card, Debit Card and EMI Transactions on Min Purchase of Rs.15000.",
+      "Capacity: 10000 mAH Lithium Polymer Battery",
+      "Dual Input Type-C and Micro USB with Dual USB Output to charge two devices at the same time",
+      "Devices is protected from Overcharging and with Discharging Protection with Intelligent Multi-protection Circuits",
+      "Built in current control circuit shunt the current when the power bank is self charging and outputting power at the same time"
+    ],
     "store": "Tata CLIQ",
     "brand": "Syska",
     "salePrice": "1599",
@@ -35,10 +42,14 @@
     "storeLogo": "",
     "category": "Powerbank",
     "link": "https://ekaro.in/enkr20201229s132957"
-},
-{
+  },
+  {
     "title": "Lenovo G27c-10 FHD WLED Curved Gaming Monitor",
-    "description": ["68.58cms (27) Gaming Monitor", "165 Hz refresh rate", "AMD Radeon FreeSync™ Technology"],
+    "description": [
+      "68.58cms (27) Gaming Monitor",
+      "165 Hz refresh rate",
+      "AMD Radeon FreeSync™ Technology"
+    ],
     "store": "Lenovo",
     "brand": "Lenovo",
     "salePrice": "25390",
@@ -51,10 +62,15 @@
     "storeLogo": "",
     "category": "Monitor",
     "link": "https://ekaro.in/enkr20201226s81072"
-},
-{
+  },
+  {
     "title": "Prolink PMM222-0200 PDMI-USB A Cable",
-    "description": ["Compatible with Samsung Galaxy Tab", "2 metre Cable Length", "A perfect accessory for your tab", "Sync & Charge Cable"],
+    "description": [
+      "Compatible with Samsung Galaxy Tab",
+      "2 metre Cable Length",
+      "A perfect accessory for your tab",
+      "Sync & Charge Cable"
+    ],
     "store": "Tata CLIQ",
     "brand": "Prolink",
     "salePrice": "699",
@@ -67,10 +83,15 @@
     "storeLogo": "",
     "category": "USB",
     "link": "https://ekaro.in/enkr20201229s133367"
-},
-{
+  },
+  {
     "title": "Mast & Harbour Men Red & Black Solid Thong Flip-Flops",
-    "description": ["Mast & Harbour", "Limited Time Offer", "Limited Quality", "Valid Till 10-01-2021"],
+    "description": [
+      "Mast & Harbour",
+      "Limited Time Offer",
+      "Limited Quality",
+      "Valid Till 10-01-2021"
+    ],
     "store": "Myntra",
     "brand": "Mactree",
     "salePrice": "599",
@@ -83,5 +104,28 @@
     "storeLogo": "",
     "category": "Footwear",
     "link": "https://ekaro.in/enkr202012165126928"
-}
+  },
+  {
+    "title": "Natural Repellent Mosquito Patches for Babies, 24 pcs (Pack of 2)",
+    "description": [
+      "Hi! I am Mamaearth 100% Natural Mosquito Repellent Patch for Babies. I am DEET-free with no harmful chemicals",
+      " insecticides or pesticides. I do not cause any side effects like eye irritation or skin damage as I am a 100% natural blend of Citronella",
+      " Eucalyptus",
+      " Peppermint Oil & Lemon Extract. My powerful mosquito repellent blend protects your loved ones from mosquitoes that spread Dengue",
+      " Malaria",
+      " and Chikungunya. I can be pasted on your child’s clothes",
+      " cots",
+      " prams",
+      " and schoolbags. I offer up to 12 hours of protection from mosquito bites. I am waterproof and can be used for both indoor and outdoor activities. I do not leave any residue on clothes after removal."
+    ],
+    "store": "Mamaearth",
+    "salePrice": "398",
+    "offerPrice": "375",
+    "discount": 5,
+    "avatar": "https://d2qthgtcaybqwj.cloudfront.net/catalog/product/8/1/81un-tnbhfl._sl1500_.jpg",
+    "image": "https://mamaearthp.imgix.net/wysiwyg/badges_1.jpg?auto=format",
+    "couponCode": "MAMA20",
+    "category": "Baby Care",
+    "link": "https://ekaro.in/enkr20201231s173262"
+  }
 ]

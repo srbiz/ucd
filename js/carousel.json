@@ -1,18 +1,22 @@
 [
     {
-        "src": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-godfather-perfume-10-8615.jpg",
+        "image": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-godfather-perfume-10-8615.jpg",
+        "description": "",
 		"link": "https://ekaro.in/enkr20201227s98100"
     },
 	{
-        "src": "https://assets.ajio.com/medias/sys_master/images/images/h7e/h47/29606849118238/27122020-d-unisex-topbanner-winterwear-min40extra33.jpg",
-        "link": "https://ekaro.in/enkr20201227s98187"
+        "image": "https://assets.ajio.com/medias/sys_master/images/images/he7/h89/29225129148446/07122020-D-Sneakerhood-Topbanner-Coolkicks.jpg",
+        "description": "SNEAK IN YOUR STATEMENT",
+        "link": "https://ekaro.in/enkr20210102s202142"
     },
     {
-        "src": "https://mamaearthp.imgix.net/wysiwyg/Lotions_1920x512-_v1GYZn4.jpg?auto=format?auto=format&fit=crop&w=1920",
+        "image": "https://mamaearthp.imgix.net/wysiwyg/Lotions_1920x512-_v1GYZn4.jpg?auto=format?auto=format&fit=crop&w=1920",
+        "description": "",
         "link": "https://ekaro.in/enkr20201227s98223"
     },
     {
-        "src": "https://cdn.shopify.com/s/files/1/1188/2592/files/Lightening_lip_balm_finalDESKTOP_BANNER_1500x.jpg?v=1608126739",
+        "image": "https://cdn.shopify.com/s/files/1/1188/2592/files/Lightening_lip_balm_finalDESKTOP_BANNER_1500x.jpg?v=1608126739",
+        "description": "",
         "link": "https://ekaro.in/enkr20201227s98246"
     }
 ]

@@ -20,7 +20,7 @@
     { "category": "Stationery", "icon": "mdi-content-cut" },
     { "category": "USB", "icon": "mdi-usb" },
     { "category": "Wallets & Bags", "icon": "mdi-bag-suitcase" },
-    { "category": "Personal Care", "icon": "mdi-bag-suitcase" },
+    { "category": "Personal Care", "icon": "mdi-spray-bottle" },
     { "category": "Food & Grocery", "icon": "mdi-silverware-clean" },
     { "category": "Books", "icon": "mdi-book-open-variant" }
 ]

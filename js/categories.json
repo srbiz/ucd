@@ -9,18 +9,13 @@
     { "category": "Baby Care", "icon": "mdi-baby-carriage" },
     { "category": "Kitchenware", "icon": "mdi-coffee-maker" },
     { "category": "Appliances", "icon": "mdi-fridge-outline" },
-    { "category": "Recharge", "icon": "mdi-cellphone-message" },
-    { "category": "Coupon", "icon": "mdi-ticket" },
     { "category": "Gift", "icon": "mdi-gift" },
     { "category": "Charger", "icon": "mdi-battery-high" },
     { "category": "Mouse", "icon": "mdi-mouse" },
     { "category": "Keyboard", "icon": "mdi-keyboard-outline" },
     { "category": "Monitor", "icon": "mdi-monitor" },
-    { "category": "Processor", "icon": "mdi-apps-box" },
-    { "category": "Stationery", "icon": "mdi-content-cut" },
     { "category": "USB", "icon": "mdi-usb" },
     { "category": "Wallets & Bags", "icon": "mdi-bag-suitcase" },
     { "category": "Personal Care", "icon": "mdi-spray-bottle" },
-    { "category": "Food & Grocery", "icon": "mdi-silverware-clean" },
     { "category": "Books", "icon": "mdi-book-open-variant" }
 ]

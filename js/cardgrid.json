@@ -1,38 +1,44 @@
 [
-{
+  {
     "store": "THE MAN COMPANY",
     "image": "https://cdn.shopify.com/s/files/1/1188/2592/files/Face_CategoryFACE_WASH_1500x.jpg?v=1578050673",
     "description": "Mens grooming face wash",
     "link": "https://ekaro.in/enkr20201227s97948"
-},
-{
+  },
+  {
     "store": "WOW Skin Science",
     "image": "https://cdn.shopify.com/s/files/1/1375/4957/files/wb_banner_nov_19_bhumi_4.jpg?v=1607928767",
     "description": "Buy 1 Get 1 FREE",
     "link": "https://ekaro.in/enkr20210102s205448"
-},
-{
+  },
+  {
     "store": "Myntra",
     "image": "https://assets.myntassets.com/f_webp,w_245,c_limit,fl_progressive,dpr_2.0/assets/images/2021/1/1/13f46d21-54e3-4e39-8e2f-d769f95d684c1609523793295-PaydaySale_Home_02_03.jpg",
     "description": "40-90% Off on Bestselling Fashion across 2500+ Brands",
     "link": "https://ekaro.in/enkr20210102s205526"
-},
-{
+  },
+  {
     "store": "Ajio",
     "image": "https://assets.ajio.com/medias/sys_master/images/images/h15/hae/29699290824734/31122020-d-unisex-topbanner-paydaysale-40to80extra20.jpg",
     "description": "Rs 1000 off on Orders over Rs 3000 | Code: CKAJIO1000, Rs 2000 off on Orders over Rs 5000 | Code: CKAJIO2000",
     "link": "https://ekaro.in/enkr20210102s205560"
-},
-{
+  },
+  {
     "store": "Beardo",
     "image": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-bath-and-body-combo-image-01-6042.jpg",
     "description": "Beardo Bath and Body Combo for Men (Charcoal)",
     "link": "https://ekaro.in/enkr20201227s97813"
-},
-{
+  },
+  {
     "store": "Mamaearth",
     "image": "https://mamaearthp.imgix.net/wysiwyg/Baby_1920x512_1_dr7MGAG.jpg?auto=format",
     "description": "Crafted by Nature",
     "link": "https://ekaro.in/enkr20210102s205599"
-}
+  },
+  {
+    "store": "Flipkart",
+    "image": "https://rukminim1.flixcart.com/image/880/1056/jr0y9ow0/duffel-bag/p/c/u/duffel-epoch-navy-epoch01nav-duffel-strolley-bag-medler-original-imafcurzzkcgkfkz.jpeg?q=50",
+    "description": "Up to 85% off on Travel Bags",
+    "link": "https://ekaro.in/enkr20210105s282880"
+  }
 ]

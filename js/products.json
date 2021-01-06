@@ -733,5 +733,38 @@
     "category": "Footwear",
     "link": "https://ekaro.in/enkr20210105s283616",
     "dateAdded": "1/5/2021, 11:13:45 PM"
+  },
+  {
+    "title": "FREE Sunscreen worth Rs 499 on Orders over Rs 599",
+    "description": [
+      "FREE Sunscreen worth Rs 499 on Orders over Rs 599"
+    ],
+    "store": "Mamaearth",
+    "salePrice": "599",
+    "offerPrice": "599",
+    "discount": 0,
+    "avatar": "https://mamaearth.imgix.net/a/n/anti_pollution_kit_1_.jpg?auto=format&fit=crop&w=930.909090909091",
+    "image": "https://mamaearthp.imgix.net/wysiwyg/Desktop_1920_x_512_1_p6HBcA0.jpg?auto=format?auto=format&fit=crop&w=1920",
+    "couponCode": "FREESPF",
+    "category": "Personal Care",
+    "link": "https://ekaro.in/enkr20210106s291439",
+    "dateAdded": "1/6/2021, 12:12:54 PM"
+  },
+  {
+    "title": "Beardo Dark Side Perfume for Men",
+    "description": [
+      "Use Code : BEARDOCK15",
+      "Flat 15% Off on All Orders"
+    ],
+    "store": "Beardo",
+    "salePrice": "1500",
+    "offerPrice": "1275",
+    "discount": 15,
+    "avatar": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-dark-side-perfume-image-02-6198.jpg",
+    "image": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-dark-side-perfume-image-04-6200.jpg",
+    "couponCode": "BEARDOCK15",
+    "category": "Personal Care",
+    "link": "https://ekaro.in/enkr20210106s291778",
+    "dateAdded": "2021-01-06T12:17:36+05:30"
   }
 ]

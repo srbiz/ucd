@@ -1,17 +1,10 @@
 [
   {
-    "store": "Beardo",
-    "image": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-3-facewash-with-white-background-new-6268.jpg",
-    "description": "Beardo Ultimate Facewash Combo +  Additional 20% Off Code | Use Code - BEARDO20 ",
-    "link": "https://ekaro.in/enkr20210107s319038",
-    "dateAdded": "2021-01-07T14:35:22+05:30"
-  },
-  {
-    "store": "Flipkart",
-    "image": "https://rukminim1.flixcart.com/image/416/416/k2rwlu80/diaper/y/d/h/wonder-pants-medium-size-diapers-combo-pack-of-2-54-counts-per-original-imafmfh6ecuqdbyf.jpeg?q=70",
-    "description": "Up to 43% OFF on Baby Diapers",
-    "link": "https://ekaro.in/enkr20210107s318498",
-    "dateAdded": "2021-01-07T14:07:30+05:30"
+    "store": "Percyfleur",
+    "image": "https://currencylive.com/news/wp-content/uploads/2019/10/gbp-inr.jpg",
+    "description": "Register to Earn daily 500 to 2000",
+    "link": "https://www.percyfleur.com/account/login?invite_key=07140231",
+    "dateAdded": "2021-01-07T23:03:54+05:30"
   },
   {
     "store": "Flipkart",
@@ -68,5 +61,19 @@
     "image": "https://mamaearthp.imgix.net/wysiwyg/Baby_1920x512_1_dr7MGAG.jpg?auto=format",
     "link": "https://ekaro.in/enkr20210102s205599",
     "dateAdded": "2021-01-07T12:41:50+05:30"
+  },
+  {
+    "store": "Flipkart",
+    "image": "https://rukminim1.flixcart.com/image/416/416/k2rwlu80/diaper/y/d/h/wonder-pants-medium-size-diapers-combo-pack-of-2-54-counts-per-original-imafmfh6ecuqdbyf.jpeg?q=70",
+    "description": "Up to 43% OFF on Baby Diapers",
+    "link": "https://ekaro.in/enkr20210107s318498",
+    "dateAdded": "2021-01-07T14:07:30+05:30"
+  },
+  {
+    "store": "Beardo",
+    "image": "https://beardoc.s3.ap-south-1.amazonaws.com/uploads/x700-3-facewash-with-white-background-new-6268.jpg",
+    "description": "Beardo Ultimate Facewash Combo +  Additional 20% Off Code | Use Code - BEARDO20 ",
+    "link": "https://ekaro.in/enkr20210107s319038",
+    "dateAdded": "2021-01-07T14:35:22+05:30"
   }
 ]
